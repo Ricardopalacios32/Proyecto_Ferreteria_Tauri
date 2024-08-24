@@ -1,8 +1,8 @@
 # Tauri + React + Typescript
 
-for windows 7 support you must compile with this comand 
+for 32bits support you must compile with this comand 
 
-tauri build --target i686-pc-windows-msvc
+cargo tauri build --target i686-pc-windows-msvc
 
 ## Recommended IDE Setup
 
