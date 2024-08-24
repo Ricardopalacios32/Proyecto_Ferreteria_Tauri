@@ -1,5 +1,9 @@
 # Tauri + React + Typescript
 
+build with 
+
+npm run tauri build
+
 for 32bits support you must compile with this comand 
 
 cargo tauri build --target i686-pc-windows-msvc
