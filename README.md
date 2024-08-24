@@ -2,15 +2,15 @@
 
 run with
 
-npm run tauri dev
+    npm run tauri dev
 
 build with 
 
-npm run tauri build
+    npm run tauri build
 
 for 32bits support you must compile with this comand 
 
-cargo tauri build --target i686-pc-windows-msvc
+    cargo tauri build --target i686-pc-windows-msvc
 
 ## Recommended IDE Setup
 
