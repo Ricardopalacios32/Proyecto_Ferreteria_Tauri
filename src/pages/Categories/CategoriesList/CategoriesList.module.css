@@ -1,0 +1,34 @@
+
+.categorytablecont{
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.categorytablecont input[type = "file"] {
+    margin-top: 20%;
+}
+
+.categorytablecont .tablecontrolscont {
+    width: 45%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: row;
+    margin-top: 12%;
+}
+
+
+.categorytablecont .createbutton{
+    padding: .5rem;
+    color: white;
+    background-color: rgb(30, 210, 255);
+    font-size: 1.rem;
+    text-align: center;
+    width: auto;
+    margin-left: -100px;
+    font-weight: 600;
+    
+    text-decoration: none;
+}

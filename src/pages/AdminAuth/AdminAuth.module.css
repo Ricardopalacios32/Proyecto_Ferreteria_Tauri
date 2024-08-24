@@ -1,0 +1,10 @@
+.adminAuthcont{
+    width: 100vw;
+    display: flex;
+    align-items: center;
+}
+
+.adminAuthcont p{
+    font-size: large
+}
+
