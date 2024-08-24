@@ -1,5 +1,9 @@
 # Tauri + React + Typescript
 
+run with
+
+npm run tauri dev
+
 build with 
 
 npm run tauri build
